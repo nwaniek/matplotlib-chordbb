@@ -60,14 +60,6 @@ an axis and a segment, and then renders what you want to display. For an example
 of this, have a look at one of the existing renderes, e.g.
 ``ChordArcAxisTicker``.
 
-If you wish to extend ``chordbb`` with other types than the standard types that it
-already supports, autoinc, np.ndarray, and other BLOBs, then best have a look at
-``tinysql``'s ``TYPE_MAPPING`` variable. This is simply a dict which contains a map
-from a type that you want to use in a type annotation to the sqlite database
-type and some additional flag. You can either inject your own type mappings into
-``TYPE_MAPPING``, or change it directly there (remember, tinysql is as basic as it
-gets, and a 'single file package').
-
 
 Contributing
 ------------
