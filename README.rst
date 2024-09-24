@@ -70,7 +70,7 @@ If you have suggestions, bug reports, or want to contribute code, please open an
 Alternatives
 ------------
 Of course, there exist alternatives to ``chordbb``.
-For instance, the excellent `mpl-chord-diagram <https://codeberg.org/tfardet/mpl_chord_diagram>`, which is feature rich and stable.
+For instance, the excellent `mpl-chord-diagram <https://codeberg.org/tfardet/mpl_chord_diagram>`_, which is feature rich and stable.
 The benefit of ``chordbb`` over other solutions is an improved level of customization.
 
 
